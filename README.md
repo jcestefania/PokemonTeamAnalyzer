@@ -35,9 +35,9 @@ PokemonTeamAnalyzer es una herramienta que ayuda a Ash Ketchum a decidir cuál d
    ```
 
 3. Instala las dependencias:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. Ejecuta el notebook `pokemonTeamAnalyzer.ipynb` para realizar el análisis.
   
