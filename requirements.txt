@@ -1,5 +1,3 @@
 requests
 matplotlib
 pandas
-numpy
-jupyter
